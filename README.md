@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vermaakanksha823@gmail.com**
 
-- ⚡ Fun fact **Eat Code Repeat**
+- ⚡ Fun fact **While(!(Succeed = Try()));**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
