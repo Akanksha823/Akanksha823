@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha Verma</h1>
 <h3 align="center">Passionate Computer Science Student</h3>
 
-- 🔭 I’m currently working on **MERN Stack projects**
+- 🔭 I’m currently working on **Javascript Project**
 
 - 🌱 I’m currently learning **JavaScript and CSS**
 
